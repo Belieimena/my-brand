@@ -1,0 +1,40 @@
+
+      <th></th>
+      <tr>
+        <td rowspan="">
+          CONTACT US
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Address:
+        <td>Kigali , RWANDA</td>
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="2">
+          Phone: </td>
+        <td>(+250) 785 980 556
+        </td>
+      </tr>
+      <tr>
+        <td>
+          (+250) 790 966 842
+        </td>
+      </tr>
+      <tr>
+        <td> Email:</td>
+        <td>destinywebsite@gmail.com</td>
+      </tr>
+      <tr>
+        <td rowspan=""><b>SOCIAL MEDIA</b></td>
+      </tr>
+      <tr>
+        <td>
+          <P>
+            <a href=""><img src="inst.jpeg" style="border-radius: 10px;"></a>&nbsp
+            <a href=""><img src="fb.jpeg" style="border-radius: 10px;"></a>&nbsp
+            <a href=""><img src="gmail.jpg" style="border-radius: 10px;"></a>&nbsp
+          </P>
+        </td>
+      </tr>

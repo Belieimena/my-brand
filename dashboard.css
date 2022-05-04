@@ -1,0 +1,95 @@
+* {
+    text-decoration: none;
+}
+
+#header {
+    width: 100%;
+    height: 88px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: start;
+    background-color: rgb(212, 106, 0);
+    color: white;
+    margin-top: -10px;
+}
+
+body {
+    background-color: rgb(231, 243, 254);
+    /* background: url(back.jpeg) no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+#A {
+    width: 25%;
+    height: 700px;
+    background-color: aliceblue;
+}
+
+#B {
+    width: 75%;
+    height: 700px;
+    background-color: rgb(220, 228, 236);
+    margin-left: 25%;
+    margin-top: -720px;
+}
+
+/*#box {
+    display: flex;
+    justify-content: space-between;
+}*/
+
+#card {
+    width: 200px;
+    height: 110px;
+    background: rgb(227, 226, 226);
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 0px;
+    background-color: aliceblue;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+#card1 {
+    width: 200px;
+    height: 110px;
+    background: rgb(227, 226, 226);
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 0px;
+    background-color: aliceblue;
+    margin-left: 300px;
+    margin-top: -18px;
+}
+
+#card2 {
+    width:200px;
+    height: 110px;
+    background: rgb(227, 226, 226);
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px 0px;
+    background-color: aliceblue;
+    margin-left: 300px;
+    margin-top: -17px;
+}
+
+#board {
+    width: 90%;
+    height: 200px;
+    background: rgb(227, 226, 226);
+    border-radius: 12px;
+    box-shadow: 0px 0px 3px 0px;
+    background-color: aliceblue;
+    margin-top: 18%;
+    margin-left: 5%;
+
+}
+#B input[type='button']{
+    margin-top: 18%;
+    width: 8%;
+    height: 33px;
+    border-radius: 9px;
+    color: white;
+}
